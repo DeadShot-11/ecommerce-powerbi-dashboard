@@ -14,7 +14,7 @@ This project showcases an interactive Power BI dashboard analyzing e-commerce pe
 * Orders: 30K+
 * Focus on revenue trends and category performance
 
-![Executive Overview](executive.png)
+![Executive Overview](Ecommerce Executive Overview.png)
 
 ---
 
@@ -24,7 +24,7 @@ This project showcases an interactive Power BI dashboard analyzing e-commerce pe
 * Customer segmentation (High, Mid, Low value)
 * Customer Lifetime Value insights
 
-![Customer Analysis](customer.png)
+![Customer Analysis](Customer Analytics Overview.png)
 
 ---
 
@@ -34,7 +34,7 @@ This project showcases an interactive Power BI dashboard analyzing e-commerce pe
 * Category-wise revenue and order volume
 * Product-level insights
 
-![Product Performance](product.png)
+![Product Performance](Product & Category Performance Overview.png)
 
 ---
 
